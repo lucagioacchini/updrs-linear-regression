@@ -2,7 +2,7 @@
 <img src="fig/polito.png" alt="Logo" width="80" height="80">
 </p>
 
-#  Linear Regression Algorithm for UPDRS Estimation
+#  Linear Regression Algorithms for UPDRS Estimation
 This work is part of the ICT for Health course at Politecnico di Torino.  
 The main purpose of the work is to implement the most known linear regression algorithms for estimating the UPDRS features of Parkinson affected patients.
 
